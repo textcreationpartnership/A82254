@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration published in the Scots army, proclaimed by order from Generall Leven at Durham, May 13. 1646. With a declaration and orders from the Estates of Scotland, dated at Edenborough, May 8. concerning the King, and those that repaire to him. With the heads of other papers from Newcastle, concerning the manner of His Majesties entertainment there, and the posture of the said garrison, upon His Majesties comming thither. With two victories againt the enemy in Scotland. Two of Colkittoths brothers slaine. These papers are perused, and commanded to be printed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82254</idno>
+            <idno type="STC">Wing D789</idno>
+            <idno type="STC">Thomason E337_31</idno>
+            <idno type="STC">ESTC R200834</idno>
+            <idno type="EEBO-CITATION">99861467</idno>
+            <idno type="PROQUEST">99861467</idno>
+            <idno type="VID">113604</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82254)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113604)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E337[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration published in the Scots army, proclaimed by order from Generall Leven at Durham, May 13. 1646. With a declaration and orders from the Estates of Scotland, dated at Edenborough, May 8. concerning the King, and those that repaire to him. With the heads of other papers from Newcastle, concerning the manner of His Majesties entertainment there, and the posture of the said garrison, upon His Majesties comming thither. With two victories againt the enemy in Scotland. Two of Colkittoths brothers slaine. These papers are perused, and commanded to be printed.</title>
+                  <author>Leven, Alexander Leslie, Earl of, 1580?-1661.</author>
+                  <author>Scotland. Convention of Estates.</author>
+                  <author>Scotland. Army.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matthew Walbanck,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>May 21. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113604:1"/>
+            <pb facs="tcp:113604:1" rendition="simple:additions"/>
+            <p>A DECLARATION publiſhed in the Scots Army, Proclaimed by Order from Gene<g ref="char:EOLhyphen"/>rall LEVEN at <hi>Durham, May</hi> 13. 1646.</p>
+            <p>WITH A DECLARATION and ORDERS from the Eſtates of <hi>Scotland,</hi> Dated at <hi>Eden<g ref="char:EOLhyphen"/>borough, May</hi> 8. concerning the KING, and thoſe that repaire to him.</p>
+            <p>With the Heads of other Papers from <hi>New<g ref="char:EOLhyphen"/>caſtle,</hi> concerning the manner of His Majeſties en<g ref="char:EOLhyphen"/>tertainment there, and the poſture of the ſaid Garriſon upon His Majeſties comming thither.</p>
+            <p>With two Victories againſt the Enemy in <hi>Scotland.</hi>
+            </p>
+            <p>Two of <hi>Colkittoths</hi> Brothers ſlaine.</p>
+            <p>
+               <hi>Theſe Papers are peruſed, and commanded to be printed.</hi>
+            </p>
+            <p>LONDON: Printed for <hi>Matthew Walbanck, May</hi> 21. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113604:2"/>
+            <pb n="1" facs="tcp:113604:2"/>
+            <head>Heads of Papers from <hi>Newcastle,</hi> concerning the King and the Scottiſh Forces: With a Declaration publiſhed at <hi>Durham,</hi> and Orders from the Eſtates at <hi>Edenborough.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>S the coming of his Majeſty was ſtrange and unexpected to the Generall and Commiſſioners of the <hi>Scots</hi> Army, ſo it was admired by all the Officers and Souldiers; yet ſeeing, that it hath pleaſd Almighty God to throw his Majeſty upon them, they tell us, that they will uſe their utter<g ref="char:EOLhyphen"/>moſt endeavours to make the beſt improvement therof that God ſhall
+<pb n="2" facs="tcp:113604:3"/>
+inable them to, for the good of both Kingdomes, the maintaining of the Covenant, the ſetling of the Church, and procuring of a ſafe and well-grounded peace to both Nations.</p>
+            <p>Since His Majeſty <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me to <hi>South<g ref="char:EOLhyphen"/>well,</hi> there came divers Malignants to the Army, which number daily increaſed, ſo that by that time the K. was marched to <hi>Durham:</hi> there were many mixed among the <hi>Scots</hi> ſoul<g ref="char:EOLhyphen"/>diers, and ſome came thither alſo af<g ref="char:EOLhyphen"/>terwards.</p>
+            <p>But his Excellency, the Earle of <hi>Leven,</hi> and the Commiſſioners, ta<g ref="char:EOLhyphen"/>king into conſideration the dange<g ref="char:EOLhyphen"/>rous conſequence thereof (if not timely prevented) &amp; advertiſements being had about the ſame, (both to maintaine the Covenant, and the
+<pb n="3" facs="tcp:113604:3"/>
+peace of both Kingdomes) they thought fit that a Declaration ſhould be publiſhed, That all perſons what<g ref="char:EOLhyphen"/>ſoever, that have done any diſ-ſer<g ref="char:EOLhyphen"/>vice againſt the <hi>Parliament,</hi> ſhall not remain in, or come neer the Army, before they have ſubmitted to the Authority and all Ordinances of Parliament.</p>
+            <p>And accordingly on wedneſday, the 13. of <hi>May,</hi> 1646. the ſaid De<g ref="char:EOLhyphen"/>claration was drawne up, and ſigned by His Excellencie, with the advice of the ſaid Commiſſioners, and com<g ref="char:EOLhyphen"/>manded to be publiſhed through<g ref="char:EOLhyphen"/>out all their Quarters: And the ſame day His Majeſty being to paſſe away from <hi>Durham</hi> to <hi>Newcaſtle,</hi> the Proclamation was accordingly pro<g ref="char:EOLhyphen"/>claimed in <hi>Durham,</hi> as followeth:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <pb n="4" facs="tcp:113604:4"/>
+                        <head>By his Excellencie the Earle of <hi>Leven,</hi> Lord Generall of the <hi>Scotiſh</hi> Armies, and with the advice of the Right Honoura<g ref="char:EOLhyphen"/>ble Committee, reſiding with the Armie.</head>
+                        <p>THeſe are ſtrictly to require all Of<g ref="char:EOLhyphen"/>ficers and Souldiers under my com<g ref="char:EOLhyphen"/>mand, to forbeare to have any dealing, or entertaine any correſpondencie, or beare company upon the march, or in any the quarters with any perſon whatſoever, for<g ref="char:EOLhyphen"/>merly in ſervice againſt the Parliament of <hi>England,</hi> nor to have the leaſt compliance with any diſ-affected thereto: But upon notice of their being in the Army, forth<g ref="char:EOLhyphen"/>with to ſignifie the ſame, that they may be removed, and that wee may be juſtified in the integritie of our intentions, and the better to prevent all miſ-underſtanding of our wayes<g ref="char:punc">▪</g>
+                        </p>
+                        <p>It is hereby Declared, That no ſuch perſons applie themſelves to come neere to
+<pb n="5" facs="tcp:113604:4"/>
+this Armie, but to ſeparate and depart, untill they give all due obedience to, and ſubmit to the Ordinances &amp; Authoritie of Parliament, certifying them, and every of them, That if after publiſhing of theſe preſent Orders, they be found in the Ar<g ref="char:EOLhyphen"/>my, in manner aboveſaid, they are not to be protected, but reputed and eſteemed as Enemies, their perſons to be ſeized on and delivered by you: And hereof all perſons whatſoever, are to take ſpeciall notice, as they ſhall anſwer the contrary upon their perill.</p>
+                        <closer>
+                           <signed>
+                              <hi>For all Officers and Souldi<g ref="char:EOLhyphen"/>ers under my command, and for all other whom theſe may concerne. Signed <hi>LEVEN.</hi>
+                              </hi>
+                           </signed>
+                           <dateline>
+                              <hi>Dated at <hi>Durham</hi>
+                              </hi>
+                              <date>
+                                 <hi>the 13 of <hi>May,</hi> 1646.</hi>
+                              </date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And the Eſtates of <hi>Scotland</hi> have diſcharged all perſons whatſoever, to ſeek or receive any Gift, Penſion, or mark of honour from His Maje<g ref="char:EOLhyphen"/>ſtie, and appoynted, that no other deſire be propounded to him, but to
+<pb n="6" facs="tcp:113604:5"/>
+ſatisfie the joynt deſire of both King<g ref="char:EOLhyphen"/>doms, in ſetling of Religion &amp; peace.</p>
+            <p>When the Declaration was pub<g ref="char:EOLhyphen"/>liſhed in <hi>Durham,</hi> it did no little vex the Malignants, of which ſort there are good ſtore in thoſe parts, who hoped to have found better accep<g ref="char:EOLhyphen"/>tance, and from thence encouraged themſelves (as they ſuppoſed and much wiſhed) that the Parliament of <hi>England</hi> and their Armies, and the Kingdome of <hi>Scotland</hi> and theirs would have begun a new warre; and to kindle theſe coales, many were very active, not only verbally, but in publike action; but bleſſed bee God, the Cockatrices were cruſhed in their ſhels.</p>
+            <p>The Generall made many faire and full expreſſions (before hee left
+<pb n="7" facs="tcp:113604:5"/>
+               <hi>Durham</hi>) of the integrity of the Kingdome of <hi>Scotland</hi> towards the Parliament of <hi>England,</hi> and eſpeci<g ref="char:EOLhyphen"/>ally in the obſervance of the Nati<g ref="char:EOLhyphen"/>onall League and Covenant; And the Committee of Eſtates for the Kingdome of <hi>Scotland,</hi> ſitting at <hi>E<g ref="char:EOLhyphen"/>denborough,</hi> have publiſhed this Or<g ref="char:EOLhyphen"/>der and Declaration throughout the Kingdome of <hi>Scotland.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <head>By the Committee of Eſtates, for the Kingdome of <hi>Scotland.</hi>
+                        </head>
+                        <p>THe Committee of Eſtates, taking to their conſiderations the preſent condition of the publique affaires of this Kingdome, doe find it neceſſary, in regard thereof, and for divers cauſes, much im<g ref="char:EOLhyphen"/>porting the advancement of this Cauſe, &amp; good, &amp; peace of this Kingdom, that a re<g ref="char:EOLhyphen"/>ſtraint be upon all the Subjects of this
+<pb n="6" facs="tcp:113604:6"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="7" facs="tcp:113604:6"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb n="8" facs="tcp:113604:7"/>
+Kingdome, from going out of the ſame without publike Warrant.</p>
+                        <p>And for that effect, the Committee doth Ordaine and command, the Lyon He<g ref="char:EOLhyphen"/>rald, and his brethren Heralds and Pur<g ref="char:EOLhyphen"/>ſevants, to paſſe to the Market-Croſſe of <hi>Edenborough,</hi> and there, by open Procla<g ref="char:EOLhyphen"/>mation, to command, charge, and inhibit, all his Majeſties Subjects, of what de<g ref="char:EOLhyphen"/>gree and condition ſoever they be, that none of them preſume nor take upon hand to go out of this Kingdome, by Sea or Land, without Warrant of the Committee of Eſtates, under the paine to be purſued and puniſhed, as publique enemies and contem<g ref="char:EOLhyphen"/>ners of the publique Orders of the King<g ref="char:EOLhyphen"/>dome, with power hereby. And Ordaines this reſtraint, to continue till the firſt day of <hi>June</hi> next com<g ref="char:EOLhyphen"/>ming.</p>
+                        <trailer>To all Governours of Garriſons, and all Officers, Judges, Magi<g ref="char:EOLhyphen"/>ſtrates, and others to whom it doth belong, to take and apprehend all ſuch perſons as they find going out of the Kingdome, without a Paſſe as aforeſaid.</trailer>
+                        <closer>
+                           <dateline>Dated at <hi>Edenborough</hi>
+                              <date>this 8 of <hi>May,</hi> 1646.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="9" facs="tcp:113604:7"/>Alſo for the Army of the Scots, they mar<g ref="char:EOLhyphen"/>ched very long and hard marches from New-ark; and his Majeſtie was on the ſaid Wed<g ref="char:EOLhyphen"/>neſday the 13 of May inſtant (about five of the clock in the after-noon) received by the Go<g ref="char:EOLhyphen"/>vernour of New-caſtle into the towne, with<g ref="char:EOLhyphen"/>out any ſolemnitie, or ringing of bels, ſhoo<g ref="char:EOLhyphen"/>ting of Cannon, or acclamations of the peo<g ref="char:EOLhyphen"/>ple, as ſome would have had it done.</p>
+            <p>His Majeſtie entred the towne in a gene<g ref="char:EOLhyphen"/>rall manner, the Souldiers ſtanding to their Armes from Gateſhead to the place where his Majeſtie was to quarter; where the Governor taketh care that the King may be attended with all the circumſpection he can, that the diſ-affected have no acceſſe unto his Majeſtie.</p>
+            <p>And the better to prevent the ſame, there are appointed Burgeſſes to wait, two at everie port in the town, and there is not a Scottiſh<g ref="char:EOLhyphen"/>man to be received from Scotland, without a Paſſe from the Eſtates; and no Engliſh-man from any place of England, except they be men of truſt and fidelitie, and approved of by the Parliament, their Commiſsioners, or the Deputy-Mayor of New-Caſtle. And ſince his Majeſtie, and the Scottiſh Nobilitie
+<pb n="10" facs="tcp:113604:8"/>
+came to New-Caſtle, they have diſcharged di<g ref="char:EOLhyphen"/>vers Cavaliers of the Kings attendants.</p>
+            <p>Something more is referred to this follow<g ref="char:EOLhyphen"/>ing Letter.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <hi>New-Caſtle</hi>
+                        <date>
+                           <hi>the 14 of May 1646.</hi>
+                        </date>
+                     </dateline>
+                     <salute>Noble Sir,</salute>
+                  </opener>
+                  <p>LAſt night being Wedneſday in the evening the King came to Newcaſtle, his Majeſties entertainment was briefly thus <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. A lane of muskets, and pikes was made (by or<g ref="char:EOLhyphen"/>der from Sir <hi>James Lunſdale</hi> the Governour) from Gateſ<g ref="char:EOLhyphen"/>head (the place where his Majeſty entred this town) all along the ſtreets, to the Generalls own quarters, where his Majeſty now lyeth; there came with his Majeſtie about <hi>300.</hi> horſe, or ſcarce ſo many, and very few or none of the Countrey Gentry come with his Majeſtie into the towne, of any quality, which was prevented by Inhabitants of truſt, which were placed both at the Gates, and before the Court, (<hi>viz.</hi> the Ge<g ref="char:EOLhyphen"/>neralls Quarters where his Majeſtie ſtill is) and theſe did very carefully diſcry and prevent the entrance of all Delin<g ref="char:EOLhyphen"/>quents, and admitted no ſuſpected Engliſh perſons, to enter into the Towne, and upon ſearch, they found none that were of any eſteeme or repute. That watch was continued not only that day, but ſtill is to continue from day, to day; and they have ſecured ſome, and feared the malignant party in theſe parts, and kept them in awe, that they dare not preſume to attempt to come near the King.</p>
+                  <p>Generall <hi>Leven</hi> hath received a Letter from the Engliſh Commiſsioners from Lincoln, to whom it was directed, with their deſires to acquaint the reſt of the Commiſsioners of Scotland (reſiding here with the King) therewith, which accordingly was this day done. The ſubſtance of which Let<g ref="char:EOLhyphen"/>ter is;</p>
+                  <p>
+                     <pb n="11" facs="tcp:113604:8"/>
+                     <q>That to prevent the coming of Malig<g ref="char:EOLhyphen"/>nants to the King, upon his moving North<g ref="char:EOLhyphen"/>ward, they deſire that no countenance, nor any encouragement at all ſhould be given to the Malignant partie (which ſhall come neere the King, by his Majeſtie. And the ſaid Commiſsioners do alſo deſire the accom<g ref="char:EOLhyphen"/>modation of the Scots, in what they ſhall repreſent to them, in relation to that buſi<g ref="char:EOLhyphen"/>neſſe, and for the better obſervance thereof.</q>
+                  </p>
+                  <p>This Letter being delivered to the Generall, his Excel<g ref="char:EOLhyphen"/>lency acquainted the reſt of the Lords therewith, who taking the ſame into conſideration, gave their conſent thereto, and what hath been obſerved therein produceth good effect, and the chiefeſt of the Scottiſh Nation that are here, do aſſure us thus much:</p>
+                  <p>
+                     <q>That the Parliament of England will not be denyed what they ſhall deſire, con<g ref="char:EOLhyphen"/>cerning the Malignants of theſe parts.</q>
+                  </p>
+                  <p>And whereas there hath been Proclamation made at Dur<g ref="char:EOLhyphen"/>ham, by order from the Generall, and the reſt of the Com<g ref="char:EOLhyphen"/>miſsioners, that whoever upon the Kings motion or reſi<g ref="char:EOLhyphen"/>dence in theſe parts, ſhall refuſe to ſubmit to the Orders, and Authority of Parliament, ſhall be puniſhed according to their demerit, which alſo I believe will bee publiſhed in this place, where they have kept from the King divers per<g ref="char:EOLhyphen"/>ſons, concerning whom they have received advertiſements from the Commiſsioners, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Lievtenant Colonel <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>K<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> and others.</p>
+                  <p>
+                     <pb n="12" facs="tcp:113604:9"/>
+                     <hi>Now for the manner of his Majeſties march into Newca<g ref="char:EOLhyphen"/>ſtle, with the horſe that came along with him and his atten<g ref="char:EOLhyphen"/>dants, it was in brief in this manner.</hi>
+                  </p>
+                  <p n="1">1 There marched in a partie of Horſe in<g ref="char:EOLhyphen"/>to New-Caſtle towne by the way of Gateſ<g ref="char:EOLhyphen"/>head, who marched thorow the Lane made from thence along the ſtreets to the place ap<g ref="char:EOLhyphen"/>pointed for his Majeſtie, which was the Ge<g ref="char:EOLhyphen"/>nerals quarters.</p>
+                  <p n="2">2 Some that attended upon his Majeſtie, rid before all bare.</p>
+                  <p n="3">3 Then his Majeſtie marched with the Generall, and ſome other Scottiſh Officers, divers of whom alſo that were neer the King, rid bare.</p>
+                  <p n="4">4 There went none out of the towne of New-Caſtle to meet his Majeſtie, neither the Scottiſh Lords that were in the towne, nor the Deputy-Mayor thereof; nor any other, either Inhabitant or other.</p>
+                  <p n="5">5 His Majeſtie was not received in any triumph (as ſome would have had it to have been done) nor did they in any ſolemne manner take notice of his Majeſtie.</p>
+                  <p n="6">6 The King rid in a ſad coloured plaine ſuit, and alighted at the Generals quarters (now the Court.)</p>
+                  <p n="7">
+                     <pb n="13" facs="tcp:113604:9"/>7 There were no guns diſcharged, neither by land nor by water, by way of triumph.</p>
+                  <p n="8">8 There was no acclamation by ſhooting with muskets, ſounding of trumpets, or bea<g ref="char:EOLhyphen"/>ting of drums, and yet there were both Ket<g ref="char:EOLhyphen"/>tle-drums, and trumpets good ſtore in New-Caſtle; yet were they ſo far from any publike way of triumph, that they did not found or beat ſo much, as when one troop of Scottiſh Horſe march into New-Caſtle.</p>
+                  <p>
+                     <hi>I pray God that things may be accommodated, according to the Parliaments deſires, and that a right underſtanding may bee on both ſides, that ſo all unlucky jealouſies may bee removed, and unity, love, and peace, be confirmed according to the Nationall League and Covenant.</hi>
+                  </p>
+                  <p>
+                     <hi>Now concerning the Kingdom of Scotland, ſeeing that it hath pleaſed God to give good ſucceſſe to the Scottiſh forces there, as appeares by Letters from Edenborough, bearing date May the</hi> 10. <hi>inſtant; I ſhall communicate to you the particulars of thoſe expreſſes that we have received from the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nconcerning the ſame, which is briefly thus.</hi>
+                  </p>
+                  <p n="1">1 That the Marqueſſe of Argile hath ſent over to Argile and Eilah a partie of 1200 men, who found part of <hi>Colkiltoths</hi> Forces before Eilah, and marched up to them to releeve the Caſtle, and fell upon them, and af<g ref="char:EOLhyphen"/>ter a ſharp encounter killed 140 upon the place, routed the reſt, and ſlew one of <hi>Colkiltoths</hi> brothers, who had the command there, and releeved their owne friends in Eilah Caſtle. The ſaid 1200 were moſt part Volun<g ref="char:EOLhyphen"/>tiers,
+<pb n="14" facs="tcp:113604:10"/>
+and ſuch as fled out of Argile.</p>
+                  <p n="2">2 There were 1600 men more of the Marqueſſe of Argiles Forces (from the Weſt of Scotland) ſent to re<g ref="char:EOLhyphen"/>leeve Skipinoth Caſtle, where <hi>Colkiltoth</hi> himſelfe then was, who hearing thereof, as alſo of the raiſing of the Siege, and routing of his Forces before Eilah Caſtle, everie one moved <hi>Alaſtor Mac-Do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ell</hi> (who is called <hi>Colkiltoth</hi>) to attempt to ſtorme, that place before Ar<g ref="char:EOLhyphen"/>giles forces came up, who firſt ſent in a ſummons, and had a poſitive denyall, and then drew up his men to ſtorme, which he did very fiercely; but was beaten backe with great loſſe, and in this fight <hi>Colkiltoth</hi> loſt (another) his eldeſt brother, who was ſlaine upon the place with divers other conſiderable men, and the place is relieved, and the ſiege raiſed, <hi>Colkilt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th</hi> and the reſt being fled.</p>
+                  <p n="3">3 <hi>Colkiltoth</hi> was purſued by the 1600. men of the Marqueſſe of Argile, who ſtill followed him ſo cloſe, that he with thoſe he hath left, was forced to retreat to the Hills, and the Countrey of Argile is now totally cleared of them, they being all fled with <hi>Colkiltoth</hi> up to the Hills.</p>
+                  <p n="4">4 Major-Generall <hi>Middleton</hi> is gone up to <hi>Mon<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>e,</hi> with a reſolution to fight with him, and the Eſtates in Edenborough write, that they expect every day to heare that he is ingaged with him, which it is proba<g ref="char:EOLhyphen"/>ble we ſhall heare by the next: for at the date of the former Letters they were then verie neare engagement.</p>
+                  <closer>
+                     <dateline>Newcaſtle,
+<date>May 14. 1646.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113604:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
